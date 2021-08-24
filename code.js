@@ -30,4 +30,14 @@ function sayHello(input) {
     }
 }
 
+function isFive() {
+    return Boolean;
+}
 
+// function isFive(input) {
+//     if (input === 5) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
