@@ -14,7 +14,6 @@ function helloWorld() {
 //     }
 // }
 
-// Post refactor:
 
 function sayHello(input) {
     return "Hello, " + input + "!";
